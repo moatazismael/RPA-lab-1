@@ -1,0 +1,6 @@
+{
+  "Name": "FirstBot",
+  "ProjectType": "Process",
+  "Description": "Extracting temp",
+  "MainFile": "Main.xaml"
+}

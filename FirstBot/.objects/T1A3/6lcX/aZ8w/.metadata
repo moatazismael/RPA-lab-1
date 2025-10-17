@@ -1,0 +1,13 @@
+﻿{
+  "Name": "The temprture in damiatta26  Humidi - Notepad",
+  "Type": "Screen",
+  "Id": "aZ8w4IWV8kK6nFfx8t9WMg",
+  "Reference": "P_xVNg2Cu06BBR2KMMIAjw/aZ8w4IWV8kK6nFfx8t9WMg",
+  "ParentRef": "P_xVNg2Cu06BBR2KMMIAjw/6lcXjThRA0W6_RoO_gIkwA",
+  "Created": "2025-10-17T16:00:34.8140261Z",
+  "Updated": "2025-10-17T16:00:34.8140261Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,1 @@
+The temprture in Cairo is 24  ,Humidity: 51%  , Status: Clear

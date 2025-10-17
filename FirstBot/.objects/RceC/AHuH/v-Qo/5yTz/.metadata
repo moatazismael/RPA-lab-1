@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Humidity 63%",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5yTz8jFXGEiR7uPweIdSqQ",
+  "Reference": "P_xVNg2Cu06BBR2KMMIAjw/5yTz8jFXGEiR7uPweIdSqQ",
+  "ParentRef": "P_xVNg2Cu06BBR2KMMIAjw/v-QoBUF8aUCmJS5pIBb0Zw",
+  "Created": "2025-10-17T15:43:08.9726307Z",
+  "Updated": "2025-10-17T15:43:08.9726307Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

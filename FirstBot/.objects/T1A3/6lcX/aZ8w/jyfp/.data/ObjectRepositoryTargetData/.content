@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mrPIutDTs02SMu3x3o1evw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="dcee4a3c-c25d-40cf-b690-130ed3f2e5e2" CvTextArea="23, 63, 28, 17" CvTextArgument="File" CvType="Text" DesignTimeRectangle="23, 63, 28, 17" ElementType="Text" ElementVisibilityArgument="Interactive" Guid="a4b1f2e1-839d-45b5-a17d-898247d4022a" ScopeSelectorArgument="&lt;wnd app='notepad.exe' appid='Microsoft.WindowsNotepad_8wekyb3d8bbwe!App' title='*The temprture in damiatta26  Humidi - Notepad' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-2" Y="2" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="3c562e81f03b6cd92ab2da962ad917c0.png" xmlns="">01c8Wretc9kaJGrE4LmMlcw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
